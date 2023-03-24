@@ -1,0 +1,11 @@
+git and github 
+git= local repository 
+github=globale repository 
+*operation
+1.clone= it is proces of taking data from local account.
+ - github toeclips
+ -it will give complete data 
+2.push= send the code from eclips
+-eclips to git hub                    
+3.pull=send the code github to eclips.
+-it will only update data.
